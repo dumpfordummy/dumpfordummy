@@ -11,4 +11,4 @@ Skills stack
 
 🛢️ Databse: Oracle SQL, MySQL, MongoDB
 
-✨ Miscellaneous: SignalR, RabbitMQ, RestAPI, Scikit-Learn
+✨ Miscellaneous: SignalR, RabbitMQ, EntityFramework, Scikit-Learn

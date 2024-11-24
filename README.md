@@ -3,7 +3,7 @@
 Skills stack
  ☁ Cloud: AWS
 
-💻 Frontend: Next.JS, Knockout.JS
+💻 Frontend: React.JS, Knockout.JS
 
 🖥️ Backend: ASP.NET Web Form, ASP.NET Core Blazor, Flask, JSP
 
